@@ -1,8 +1,5 @@
 # Harespod
 
-## Article
-https://www.nature.com/articles/s41597-024-03065-x
-
 ## The structure of the code folder.
 ```
 Codes_Arch               # Codes for acquisition, processing, analysis and visualisation
@@ -11,6 +8,9 @@ Codes_Arch               # Codes for acquisition, processing, analysis and visua
  ├─Data_Visualization    # Codes for data visulization
  └─Time_Related          # Codes for get current timestamp
 ```
+
+## Article link
+https://www.nature.com/articles/s41597-024-03065-x
 
 ## Note
 - As there is no license from BerryMed to make its source code public, only the code we modified is provided in the `Main/Code_Arch/Berry_Related/` folder.
