@@ -1,5 +1,8 @@
 # Harespod
 
+## Article
+https://www.nature.com/articles/s41597-024-03065-x
+
 ## The structure of the code folder.
 ```
 Codes_Arch               # Codes for acquisition, processing, analysis and visualisation
