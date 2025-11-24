@@ -10,7 +10,7 @@ Codes_Arch               # Codes for acquisition, processing, analysis and visua
 ```
 
 ## Article link
-https://www.nature.com/articles/s41597-024-03065-x
+A high altitude respiration and SpO2 dataset for assessing the human response to hypoxia (https://www.nature.com/articles/s41597-024-03065-x).
 
 ## Note
 - As there is no license from BerryMed to make its source code public, only the code we modified is provided in the `Main/Code_Arch/Berry_Related/` folder.
